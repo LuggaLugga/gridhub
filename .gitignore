@@ -4,5 +4,8 @@
 # Python
 .venv
 
+# Environment
+.env
+
 # Other
 NOTES.md
