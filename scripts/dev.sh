@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 
-fastapi dev ../main.py
+cd ..
+fastapi dev main.py
